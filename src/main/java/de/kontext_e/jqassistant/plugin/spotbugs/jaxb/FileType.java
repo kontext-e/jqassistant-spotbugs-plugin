@@ -19,20 +19,20 @@ public class FileType {
 	/**
 	 * Gets the value of the bugInstance property.
 	 *
-	 * <p&gt;
+	 * <p>
 	 * This accessor method returns a reference to the live list,
 	 * not a snapshot. Therefore any modification you make to the
 	 * returned list will be present inside the JAXB object.
-	 * This is why there is not a <CODE&gt;set</CODE&gt; method for the bugInstance property.
+	 * This is why there is not a <CODE>set</CODE> method for the bugInstance property.
 	 *
-	 * <p&gt;
+	 * <p>
 	 * For example, to add a new item, do as follows:
-	 * <pre&gt;
+	 * <pre>
 	 *    getBugInstance().add(newItem);
-	 * </pre&gt;
+	 * </pre>
 	 *
 	 *
-	 * <p&gt;
+	 * <p>
 	 * Objects of the following type(s) are allowed in the list
 	 * {@link BugInstanceType }
 	 *

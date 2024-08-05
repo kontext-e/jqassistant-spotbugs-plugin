@@ -11,11 +11,11 @@ import javax.xml.bind.annotation.XmlType;
 
 
 /**
- * <p&gt;Java class for FindBugsSummaryType complex type.
+ * <p>Java class for FindBugsSummaryType complex type.
  * 
- * <p&gt;The following schema fragment specifies the expected content contained within this class.
+ * <p>The following schema fragment specifies the expected content contained within this class.
  * 
- * <pre&gt;
+ * <pre>
  * &lt;complexType name="FindBugsSummaryType"&gt;
  *   &lt;complexContent&gt;
  *     &lt;restriction base="{http://www.w3.org/2001/XMLSchema}anyType"&gt;
@@ -40,7 +40,7 @@ import javax.xml.bind.annotation.XmlType;
  *     &lt;/restriction&gt;
  *   &lt;/complexContent&gt;
  * &lt;/complexType&gt;
- * </pre&gt;
+ * </pre>
  * 
  * 
  */
@@ -87,20 +87,20 @@ public class FindBugsSummaryType {
     /**
      * Gets the value of the packageStats property.
      * 
-     * <p&gt;
+     * <p>
      * This accessor method returns a reference to the live list,
      * not a snapshot. Therefore any modification you make to the
      * returned list will be present inside the JAXB object.
-     * This is why there is not a <CODE&gt;set</CODE&gt; method for the packageStats property.
+     * This is why there is not a <CODE>set</CODE> method for the packageStats property.
      * 
-     * <p&gt;
+     * <p>
      * For example, to add a new item, do as follows:
-     * <pre&gt;
+     * <pre>
      *    getPackageStats().add(newItem);
-     * </pre&gt;
+     * </pre>
      * 
      * 
-     * <p&gt;
+     * <p>
      * Objects of the following type(s) are allowed in the list
      * {@link PackageStatsType }
      * 

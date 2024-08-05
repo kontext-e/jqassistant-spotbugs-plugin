@@ -9,11 +9,11 @@ import javax.xml.bind.annotation.XmlValue;
 
 
 /**
- * <p&gt;Java class for SourceLineType complex type.
+ * <p>Java class for SourceLineType complex type.
  * 
- * <p&gt;The following schema fragment specifies the expected content contained within this class.
+ * <p>The following schema fragment specifies the expected content contained within this class.
  * 
- * <pre&gt;
+ * <pre>
  * &lt;complexType name="SourceLineType"&gt;
  *   &lt;simpleContent&gt;
  *     &lt;extension base="&lt;http://www.w3.org/2001/XMLSchema&gt;string"&gt;
@@ -27,7 +27,7 @@ import javax.xml.bind.annotation.XmlValue;
  *     &lt;/extension&gt;
  *   &lt;/simpleContent&gt;
  * &lt;/complexType&gt;
- * </pre&gt;
+ * </pre>
  * 
  * 
  */
